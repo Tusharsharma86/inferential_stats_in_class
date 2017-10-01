@@ -5,7 +5,7 @@ One of the foundational aspects of statistical analysis is inference, or the pro
 
 ## At a glance
 * In Class Instruction: 2 Hours
-  * In Class code along Dataset: Iowa Housing Prices
+  * In Class code along Dataset: Housing Prices Dataset
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
   * Total sub tasks within the Project: 6
@@ -40,7 +40,7 @@ Check the Jupyter Notebook in the top right of the screen
 3. [Central Limit Theorem at work](https://medium.com/@mtterribile/central-limit-theorem-at-work-a0de13df37dc)
 4. [Blackjack Simulations and the Central Limit Theorem](https://medium.com/@andrewadelson/using-monte-carlo-to-answer-a-blackjack-question-part-2-827260ddd2b8)
 
-## Project 
+## Project
 Iowa Dataset
 
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality. 
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality.
