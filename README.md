@@ -8,9 +8,9 @@ One of the foundational aspects of statistical analysis is inference, or the pro
   * In Class code along Dataset: Housing Prices Dataset
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
-  * Total sub tasks within the Project: 6
+  * Total sub tasks within the Project: 4
   * Complexity of sub tasks : Mid to High
-  * Points to be scored : 550
+  * Points to be scored : 350
 * Skills Rehearsed
   * Inferential Statistics Using Python libraries
 
