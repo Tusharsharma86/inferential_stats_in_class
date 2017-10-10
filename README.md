@@ -5,7 +5,7 @@ One of the foundational aspects of statistical analysis is inference, or the pro
 
 ## At a glance
 * In Class Instruction: 4 Hours
-  * In Class code along Dataset: Housing Prices Dataset
+  * In Class code along Dataset: House Pricing Dataset
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
   * Total sub tasks within the Project: 4
